@@ -1,4 +1,4 @@
-# Tokens
+# Que es un Token
 
 ## Table of Contents
 1. [General Info](#general-info)
