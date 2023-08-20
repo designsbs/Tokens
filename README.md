@@ -2,7 +2,7 @@
 
 ## Caracteristicas
 1. [Tokenomisk](#Tokenomisk)
-2. [Technologies](#technologies)
+2. [Uso](#Uso)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
