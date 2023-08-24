@@ -3,7 +3,7 @@
 ## Caracteristicas
 1. [Tokenomisk](#Tokenomisk)
 2. [Uso](#Uso)
-3. [Installation](#installation)
+3. [valor](#valor)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
