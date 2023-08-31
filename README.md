@@ -1,6 +1,6 @@
 # Que es un Token?
 
-## Caracteristicas
+## Caracteristicas.
 1. [Tokenomisk](#Tokenomisk)
 2. [Uso](#Uso)
 3. [valor](#valor)
